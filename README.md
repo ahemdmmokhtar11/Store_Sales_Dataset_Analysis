@@ -22,5 +22,10 @@ Outcome: A clear picture of past performance, the key growth drivers, and a sale
 
 Tools: SQL Server · Python (Pandas, NumPy, Matplotlib, Seaborn, Prophet/Statsmodels) · Power BI
 
+The Project Files : 
+https://drive.google.com/drive/folders/1XywaEYRuAdaezJpsT6HxLmYqIVc8LzfH?usp=sharing
+
+
+
 
 
